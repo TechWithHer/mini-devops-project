@@ -9,3 +9,15 @@ python app.py
 
 ## Output
 Hello from DevOps Project 🚀
+
+----------------------------------
+
+## Version 2 - Dockerized App
+
+### Build Image
+docker build -t devops-project .
+
+### Run Container
+docker run -p 5000:5000 devops-project
+
+----------------------------------
