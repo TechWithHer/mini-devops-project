@@ -21,3 +21,11 @@ docker build -t devops-project .
 docker run -p 5000:5000 devops-project
 
 ----------------------------------
+
+## Version 3 - Deployed on Linux Server
+
+- Application deployed on Ubuntu EC2 instance
+- Docker used for containerization
+- Access via: http://<public-ip>:5000
+
+-----------------------------------
