@@ -1,4 +1,4 @@
-# DevOps Project - Version 1
+# Mini DevOps Project 
 
 ## Description
 Basic Flask application to start the DevOps project journey.
